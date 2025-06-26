@@ -11,6 +11,6 @@ main{
     background-color: aquamarine;
     width: 500px;
     margin: auto;
-    padding: 100px;
-    box-shadow: 10px 10px 10px rgba(red, green, blue, alpha);
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0,473);
 }
